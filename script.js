@@ -70,7 +70,7 @@ function addWordToDOM() {
   word.innerHTML = randomWord;
 }
 
-// Update score
+// this fumction Update score
 function updateScore() {
   score++;
   scoreEl.innerHTML = score;

@@ -1,0 +1,2 @@
+untracked filles: new files that git doesnot know
+modified: changed
